@@ -22,4 +22,8 @@
 Para instalar y probar la aplicación en tu máquina local, sigue estos pasos:
 - Descarga todos los archivos y abre el archivo index en tu navegador de preferencia
 - Inserta todos los nombres participantes en el sorteo (en caso de elegir un nombre repetido o en blanco el juego mandara una alerta) y pulsa añadir
+- ![image](https://github.com/user-attachments/assets/00e1d2a8-a7f1-4929-8787-39562bacd3dc)
+- ![image](https://github.com/user-attachments/assets/840ead42-f05c-4b99-9071-94ca55892d78)
 - Presiona el boton Sortear amigo y espera el resultado
+- ![image](https://github.com/user-attachments/assets/bc5e1a11-f709-45cf-a923-4232d03fa517)
+-![image](https://github.com/user-attachments/assets/6fc41f83-4d38-4de0-ae61-61dcf4b1065e)
