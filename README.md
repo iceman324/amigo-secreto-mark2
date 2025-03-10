@@ -20,6 +20,6 @@
 ## Instalación
 
 Para instalar y probar la aplicación en tu máquina local, sigue estos pasos:
--Descarga todos los archivos y abre el archivo index en tu navegador de preferencia
--Inserta todos los nombres participantes en el sorteo (en caso de elegir un nombre repetido o en blanco el juego mandara una alerta) y pulsa añadir
--Presiona el boton Sortear amigo y espera el resultado
+-**Descarga todos los archivos y abre el archivo index en tu navegador de preferencia
+-**Inserta todos los nombres participantes en el sorteo (en caso de elegir un nombre repetido o en blanco el juego mandara una alerta) y pulsa añadir
+-**Presiona el boton Sortear amigo y espera el resultado
